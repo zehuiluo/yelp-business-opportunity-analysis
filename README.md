@@ -72,13 +72,14 @@ Key variables:
 ---
 
 ## Project Structure
+
+```text
 yelp-business-opportunity-analysis/
-│
-├── notebooks/              # analysis notebook
-├── data_pipeline/          # Python & SQL pipeline
-├── images/                 # visualizations
-├── dashboard/              # Tableau file
-├── presentation/           # slides
+├── notebooks/        # analysis notebook
+├── data_pipeline/    # Python & SQL pipeline
+├── images/           # visualizations
+├── dashboard/        # Tableau file
+└── presentation/     # slides
 
 ## Tech Stack
 Python, SQL, Tableau, Pandas
